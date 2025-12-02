@@ -46,6 +46,8 @@ for s in name:
 for i in range(10):
     print(i)
 
+for i in range(9):
+    print(i)
 
 ########################################################################
 # Task 2:
