@@ -50,7 +50,9 @@ print("The total cost of item is " + str(total_cost))
 a = 5
 b = 6
 if a==b:
-    print("")
+    print("Equal")
+else:
+    
 
 ########################################################################
 # Task 7:
