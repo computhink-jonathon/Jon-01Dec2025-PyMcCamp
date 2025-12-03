@@ -57,8 +57,9 @@
 ########################################################################
 # Task 7:
 import random
-a = random.randint(10,100)
+
 for count in range(10):
+    a = random.randint(10,100)
     print(a)
 
 
