@@ -47,12 +47,12 @@
 
 ########################################################################
 # Task 6:
-a = True
-b = False
-if b==False:
-    print("Equal")
-else:
-    print("Not Equal")
+# a = True
+# b = False
+# if b==False:
+#     print("Equal")
+# else:
+#     print("Not Equal")
 
 ########################################################################
 # Task 7:
