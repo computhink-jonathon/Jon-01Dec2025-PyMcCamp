@@ -65,6 +65,12 @@ for count in range(10):
 
 ########################################################################
 # Task 8:
+# Generate 2 random numbers and assign them to variables num1 and num2
+# Ask the student what is the addition of num1 + num2
+# If the student answers correctly, 
+# the program will print out “You are smart.”
+# If the student answers wrongly, 
+# the program will print out “Go and see the principal.”
 
 
 
