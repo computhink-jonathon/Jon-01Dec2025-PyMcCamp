@@ -34,10 +34,10 @@ sum = num1 + num2
 
 ########################################################################
 # Task 4:
-price = 8
-amt_of_item = int(input("How much item do you need?"))
-total_cost = price * amt_of_item
-print("The total cost of item is " + str(total_cost))
+# price = 8
+# amt_of_item = int(input("How much item do you need?"))
+# total_cost = price * amt_of_item
+# print("The total cost of item is " + str(total_cost))
 
 
 ########################################################################
