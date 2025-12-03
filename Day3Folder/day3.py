@@ -59,7 +59,7 @@
 import random
 
 for count in range(10):
-    a = random.randint(1,50)
+    a = random.randint(1,10)
     print(a)
 
 
