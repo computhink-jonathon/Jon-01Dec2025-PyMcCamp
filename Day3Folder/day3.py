@@ -70,6 +70,7 @@ num1 = random.randint(20,99)
 num2 = random.randint(20,99)
 
 # Ask the student what is the addition of num1 + num2
+
 # If the student answers correctly, 
 # the program will print out “You are smart.”
 # If the student answers wrongly, 
