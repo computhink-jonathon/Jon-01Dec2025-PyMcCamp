@@ -71,6 +71,7 @@ num2 = random.randint(20,99)
 sum = num1 + num2 
 # Ask the student what is the addition of num1 + num2
 result = input("What is " + str(num1) + " + " + str(num2) + " ?")
+
 # If the student answers correctly, 
 # the program will print out “You are smart.”
 # If the student answers wrongly, 
