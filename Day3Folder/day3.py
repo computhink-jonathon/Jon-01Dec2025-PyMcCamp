@@ -49,7 +49,7 @@
 # Task 6:
 a = 5
 b = 6
-if a==b:
+if a==5:
     print("Equal")
 else:
     print("Not Equal")
