@@ -58,7 +58,7 @@
 # Task 7:
 import random
 for count in range(10):
-    print(random.randint())
+    print(random.randint(10))
 
 
 ########################################################################
