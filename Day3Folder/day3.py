@@ -66,7 +66,8 @@ for count in range(10):
 ########################################################################
 # Task 8:
 # Generate 2 random numbers and assign them to variables num1 and num2
-num1 = 
+num1 = random.randint(20,99)
+
 
 # Ask the student what is the addition of num1 + num2
 # If the student answers correctly, 
