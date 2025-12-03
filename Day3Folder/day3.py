@@ -68,7 +68,7 @@ for count in range(10):
 # Generate 2 random numbers and assign them to variables num1 and num2
 num1 = random.randint(20,99)
 num2 = random.randint(20,99)
-
+sum = num1 + num2 
 # Ask the student what is the addition of num1 + num2
 result = input("What is " + str(num1) + " + " + str(num2) + " ?")
 # If the student answers correctly, 
