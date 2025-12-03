@@ -78,7 +78,7 @@ result = input("What is " + str(num1) + " + " + str(num2) + " ?")
 if result == sum:
     print("You are smart.")
 else:
-    print()
+    print("Go and see the principal.")
 
 
 ########################################################################
