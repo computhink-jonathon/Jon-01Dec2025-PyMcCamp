@@ -17,16 +17,16 @@
 
 ########################################################################
 # Task 2:
-name = "Name"
-num_pens = 20
-print(name + " brought " + str(num_pens) + " pens.")
+# name = "Name"
+# num_pens = 20
+# print(name + " brought " + str(num_pens) + " pens.")
 
 
 ########################################################################
 # Task 3:
-num1 = int(input("first number is ?"))
-num2 = int(input("second number is ?"))
-sum = num1 + num2
+# num1 = int(input("first number is ?"))
+# num2 = int(input("second number is ?"))
+# sum = num1 + num2
 # num 1= 10 num2 = 3
 # 10 + 3 = 13
  
