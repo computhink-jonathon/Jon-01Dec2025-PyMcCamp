@@ -75,7 +75,10 @@ result = input("What is " + str(num1) + " + " + str(num2) + " ?")
 # the program will print out “You are smart.”
 # If the student answers wrongly, 
 # the program will print out “Go and see the principal.”
-if result == sum
+if result == sum:
+    print("You are smart.")
+else:
+    print()
 
 
 ########################################################################
