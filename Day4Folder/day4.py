@@ -6,7 +6,7 @@ a = 5
 b = 5
 print(int(a))
 if a != b:
-    
+    print("not equal")
 
 print("hello from day4")
 
