@@ -13,7 +13,7 @@ for count in range(10):
     num1 = random.randint(1,1000)
     print(str(count + 1) + ": " + str(num1))
 
-print()
+print("-----------------------------")
 
 counter = 0
 
