@@ -2,12 +2,12 @@
 # COMMENT out the previous task before going on to the next task
 import random
 
-a = 5
-b = 5
-if a != b:
-    print("not equal")
-else:
-    print("equal")
+# a = 5
+# b = 5
+# if a != b:
+#     print("not equal")
+# else:
+#     print("equal")
 
 # print("hello from day4")
 
