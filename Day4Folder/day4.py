@@ -24,7 +24,6 @@ while counter < 10:
     # counter = counter + 1
     # counter += 1
     counter1 += 1
-    counter += 1
 
 # print("hello from day4")
 
