@@ -9,7 +9,7 @@ import random
 # else:
 #     print("equal")
 
-for count in range(100):
+for count in range(10):
     num1 = random.randint(1,1000)
     print(str(count + 1) + ": " + str(num1))
 
