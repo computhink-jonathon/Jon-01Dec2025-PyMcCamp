@@ -1,6 +1,8 @@
 # Write all your codes for Day 4 here.
 # COMMENT out the previous task before going on to the next task
+import random
 
+print(int(a))
 
 print("hello from day4")
 
