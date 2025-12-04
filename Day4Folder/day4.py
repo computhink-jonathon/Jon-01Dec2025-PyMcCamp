@@ -21,7 +21,7 @@ while counter < 10:
     num1 = random.randint(1,1000)
     print(str(counter + 1) + ": " + str(num1))
     # counter = counter + 1
-    counter += 1
+    # counter += 1
 
 
 # print("hello from day4")
