@@ -9,8 +9,9 @@ import random
 # else:
 #     print("equal")
 
-num1 = random.randint(1,1000)
-print(num1)
+for count in range(100):
+    num1 = random.randint(1,1000)
+    print(num1)
 
 # print("hello from day4")
 
