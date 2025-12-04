@@ -3,8 +3,10 @@
 import random
 
 a = 5
+b = 5
 print(int(a))
-if 
+if a != b:
+    
 
 print("hello from day4")
 
@@ -26,7 +28,7 @@ print("hello from day4")
 
 
 ##### 
-print("----------Task 1a ----------")
+# print("----------Task 1a ----------")
 # counter = 0
 # while counter <= 9:
 #     print(counter)
