@@ -4,6 +4,7 @@ import random
 
 a = 5
 print(int(a))
+if 
 
 print("hello from day4")
 
