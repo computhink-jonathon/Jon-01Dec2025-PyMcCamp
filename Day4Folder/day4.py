@@ -8,6 +8,7 @@ print(int(a))
 if a != b:
     print("not equal")
 
+
 print("hello from day4")
 
 
