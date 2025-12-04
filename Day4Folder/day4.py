@@ -2,6 +2,7 @@
 # COMMENT out the previous task before going on to the next task
 import random
 
+a = 5
 print(int(a))
 
 print("hello from day4")
