@@ -9,25 +9,31 @@ import random
 # else:
 #     print("equal")
 
-for count in range(10):
-    num1 = random.randint(1,1000)
-    print(str(count + 1) + ": " + str(num1))
+# for count in range(10):
+#     num1 = random.randint(1,1000)
+#     print(str(count + 1) + ": " + str(num1))
 
-print("-----------------------------")
+# print("-----------------------------")
 
-counter = 0
-counter1 = 0
+# counter = 0
+# counter1 = 0
 
-while counter < 10:
-    num1 = random.randint(1,1000)
-    print(str(counter + 1) + ": " + str(num1))
-    # counter = counter + 1
-    counter += 1
+# while counter < 10:
+#     num1 = random.randint(1,1000)
+#     print(str(counter + 1) + ": " + str(num1))
+#     # counter = counter + 1
+#     counter += 1
 
 
 # print("hello from day4")
 
+qns = input("What do you call a deer with no eyes?")
+correct_ans = "no idea"
 
+while qns != correct_ans:
+    qns = input("What do you call a deer with no eyes?")
+
+print("Correct")
 
 ########################################################################
 # Task 1:
