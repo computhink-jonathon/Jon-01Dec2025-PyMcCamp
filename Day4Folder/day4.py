@@ -11,7 +11,7 @@ import random
 
 for count in range(100):
     num1 = random.randint(1,1000)
-    print(count + ": " +num1)
+    print(str(count) + ": " + str(num1))
 
 # print("hello from day4")
 
