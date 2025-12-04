@@ -16,6 +16,7 @@ for count in range(10):
 print("-----------------------------")
 
 counter = 0
+counter = 
 
 while counter < 10:
     num1 = random.randint(1,1000)
