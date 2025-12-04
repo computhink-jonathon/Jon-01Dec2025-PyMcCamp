@@ -16,11 +16,11 @@ for count in range(10):
 print("-----------------------------")
 
 counter = 0
-counter = 
+counter1 = 0
 
 while counter < 10:
     num1 = random.randint(1,1000)
-    print(str(counter + 1) + ": " + str(num1))
+    print(str(counter1 + 1) + ": " + str(num1))
     # counter = counter + 1
     # counter += 1
 
