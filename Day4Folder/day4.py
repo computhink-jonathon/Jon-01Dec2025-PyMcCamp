@@ -9,6 +9,8 @@ import random
 # else:
 #     print("equal")
 
+num1 = random.randint(1,1000)
+
 # print("hello from day4")
 
 
