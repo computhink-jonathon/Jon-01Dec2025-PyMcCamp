@@ -23,7 +23,7 @@ while counter < 10:
     print(str(counter1 + 1) + ": " + str(num1))
     # counter = counter + 1
     # counter += 1
-    counter += 1
+    counter1 += 1
 
 # print("hello from day4")
 
