@@ -10,6 +10,7 @@ import random
 #     print("equal")
 
 num1 = random.randint(1,1000)
+print(num1)
 
 # print("hello from day4")
 
